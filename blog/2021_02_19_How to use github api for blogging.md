@@ -1,6 +1,6 @@
 # How to use github api for blogging
 
-*You can still manage your website contents by using CMS, but as a developer it is much easier to use github repository as a CMS*
+_You can still manage your website contents by using CMS, but as a developer it is much easier to use github repository as a CMS_
 
 Here is the basic instruction for the [github api](https://docs.github.com/en/rest)
 
@@ -9,6 +9,11 @@ Here is the basic instruction for the [github api](https://docs.github.com/en/re
 3. Try API with credentials **Base Uri + /repos/yourUsername/yourUsername/readme**
 
 Here is how you can encode with base64 at javascript
+
 ```javascript
-Buffer.from(`${CLIENT_ID}:${CLIENT_SECRTE}`,"binary").toString("base64");
+Buffer.from(`${CLIENT_ID}:${CLIENT_SECRTE}`, "binary").toString("base64");
 ```
+
+Save this as a variable and place this at the api header, Authorization, and it will all set
+
+Thank you for reading ;)
