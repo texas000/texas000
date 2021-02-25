@@ -47,3 +47,26 @@ If you have pages on your site that are almost idential, then you may need to in
 6. Header tag
 
 Header tags are part of your conent that structure your page. Using header tag improve user experience and ease of reading.
+
+7. Open Graph Meta Tag
+
+Facebook introduced Open Graph in 2010. It promotes integration between Facebook and other websites by allowing them to become rich graph objects with the same functionality as ohter Facebook objects.
+
+- Title
+
+```<meta property=”og:title” content=”your title” />```
+
+- Url
+
+```<meta property=”og:url” content=”http://www.yourdomain.com” />```
+
+- Description
+
+```<meta property=”og:description” content=”Your description” />```
+
+- Image
+
+```<meta property=”og:image” content=”Your image Url” />```
+
+
+
