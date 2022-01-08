@@ -1,7 +1,7 @@
-- 👋 Software Developer
-- 👀 Creative Artist
-- 🌱 Professional Instructor
-- 💞️ Design things
+- Software Developer
+- Creative Artist
+- Professional Instructor
+- Design things
 
 <!---
 texas000/texas000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
